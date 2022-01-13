@@ -1,0 +1,8 @@
+Bonul cu numarul 24
+Product:Cilantro-Tomato Salsa     7.0
+Product:The Original Three-Ingredient Rub     6.0
+Product:Classic Salad     56.0
+Menu:    88.0
+    Red and Green Tomato Salsa 
+    "Endive ""Spoons"" with Lemon-Herb Goat Cheese "
+TOTAL: 148.2

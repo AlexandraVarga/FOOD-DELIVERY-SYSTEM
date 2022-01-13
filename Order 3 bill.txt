@@ -1,0 +1,11 @@
+Ethiopian Spice Tea: 49.0 lei
+Cilantro-Tomato Salsa: 32.0 lei
+Cilantro-Tomato Salsa: 19.0 lei
+Beef Stock: 26.0 lei
+Beef Stock: 96.0 lei
+Beef Stock: 61.0 lei
+Quatre-Ă‰pices: 81.0 lei
+Quatre-Ă‰pices: 78.0 lei
+
+------------------------------------------
+Total price for order 3: 442.0 lei
